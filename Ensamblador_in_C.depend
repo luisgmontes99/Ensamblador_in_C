@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636146132 source:c:\users\buena\desktop\5to semestre\traductores de lenguaje i\tareas\ensamblador_in_c\main.cpp
+	<stdio.h>
+	<iostream>
+
